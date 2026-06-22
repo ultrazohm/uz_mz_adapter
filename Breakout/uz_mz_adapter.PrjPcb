@@ -164,28 +164,20 @@ DocumentPath=Project Outputs for uz_mz_adapter\Design Rule Check - uz_mz_adapter
 DItemRevisionGUID=
 
 [Parameter1]
-Name=AuthorParam
-Value=Andreas Geiger
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=GGG
-Value=004
+Name=ProjectDate
+Value=06/2026
 
 [Parameter3]
-Name=PPP
-Value=007
-
-[Parameter4]
 Name=Project
 Value=uz_mz_adapter
 
-[Parameter5]
-Name=ProjectDate
-Value=TBD
-
-[Parameter6]
-Name=ProjectRevision
-Value=Rev01
+[Parameter4]
+Name=AuthorParam
+Value=R. Weimer
 
 [DiffPairSuffix1]
 Positive=_P1
