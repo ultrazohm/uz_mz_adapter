@@ -108,7 +108,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
@@ -164,20 +164,20 @@ DocumentPath=Project Outputs for uz_mz_adapter\Design Rule Check - uz_mz_adapter
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=R. Weimer
 
 [Parameter2]
-Name=ProjectDate
-Value=06/2026
-
-[Parameter3]
 Name=Project
 Value=uz_mz_adapter
 
+[Parameter3]
+Name=ProjectDate
+Value=06/2026
+
 [Parameter4]
-Name=AuthorParam
-Value=R. Weimer
+Name=ProjectRevision
+Value=Rev01
 
 [DiffPairSuffix1]
 Positive=_P1
@@ -1270,11 +1270,17 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=user.DbLib/Power Supply - Linear
-ComponentDesignItemID0=TPS7A2425DBVR
-ComponentSymbolReference0=TPS7A24
+ComponentLibraryIdentifier0=user.DbLib/Connectors - Wire to Board
+ComponentDesignItemID0=IPL1-115-01-L-D-K
+ComponentSymbolReference0=IPL1-115-01-XX-D-XX
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=user.DbLib/Connectors - Wire to Board
+ComponentDesignItemID1=IPL1-120-01-L-D-K
+ComponentSymbolReference1=IPL1-120-01-XX-D-XX
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1308,39 +1314,38 @@ ParameterName8=Device Package
 ParameterUpdate8=1
 ParameterName9=Last Updated
 ParameterUpdate9=1
-ParameterName10=LCSC Part Number
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=Library Reference
+ParameterName11=Live Cycle Status
 ParameterUpdate11=1
-ParameterName12=Live Cycle Status
+ParameterName12=Manufacturer
 ParameterUpdate12=1
-ParameterName13=Manufacturer
+ParameterName13=Manufacturer Part Number
 ParameterUpdate13=1
-ParameterName14=Manufacturer Part Number
+ParameterName14=Mounting Type
 ParameterUpdate14=1
-ParameterName15=Mounting Type
+ParameterName15=Number of positions
 ParameterUpdate15=1
-ParameterName16=Operating Temperature
+ParameterName16=Number of rows
 ParameterUpdate16=1
 ParameterName17=PartID
 ParameterUpdate17=1
-ParameterName18=Series
+ParameterName18=Stock number
 ParameterUpdate18=1
-ParameterName19=Stock number
+ParameterName19=Supplier 1
 ParameterUpdate19=1
-ParameterName20=Supplier 1
+ParameterName20=Supplier Part Number 1
 ParameterUpdate20=1
-ParameterName21=Supplier Part Number 1
+ParameterName21=Type
 ParameterUpdate21=1
-ParameterName22=Type
-ParameterUpdate22=1
-ParameterName23=Value
-ParameterUpdate23=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SOT95P280X145-5N
+ModelName0=IPL1-115-01-YYY-D-K
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SAMTEC_IPL1-120-01-X-D-K
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

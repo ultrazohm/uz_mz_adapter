@@ -1,0 +1,202 @@
+*************************************************************
+FileName = uz_mz_adapter_Rev01.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : uz_mz_adapter_Rev01.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : L02_GND
+      File : uz_mz_adapter_Rev01.G1
+
+    Adding Layer      : L02_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Signal
+      File : uz_mz_adapter_Rev01.G2
+
+    Adding Layer      : Signal
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : uz_mz_adapter_Rev01.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : uz_mz_adapter_Rev01.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : uz_mz_adapter_Rev01.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : uz_mz_adapter_Rev01.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : uz_mz_adapter_Rev01.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : uz_mz_adapter_Rev01.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : uz_mz_adapter_Rev01.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : uz_mz_adapter_Rev01.GM
+
+
+Used DCodes :
+    D48
+*************************************************************
+
