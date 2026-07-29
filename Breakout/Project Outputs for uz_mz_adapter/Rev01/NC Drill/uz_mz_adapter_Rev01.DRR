@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: uz_mz_adapter.PcbDoc   22.06.2026  15:20:04
+NCDrill File Report For: uz_mz_adapter.PcbDoc   29.07.2026  14:57:38
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,16 @@ ASCII RoundHoles File : uz_mz_adapter_Rev01.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             287       PTH        45.53inch (1156.37mm)
-T2      40mil (1.016mm)                                           Round             242       PTH        51.69inch (1312.91mm)
-T3      57mil (1.45mm)                                            Round             6         NPTH       10.90inch (276.92mm)
-T4      126mil (3.2mm)                                            Round             16        NPTH       6.23inch (158.15mm)
-T5      134mil (3.401mm)        +/-3mil (0.076mm)                 Round             4         NPTH       13.78inch (350.00mm)
+T1      12mil (0.3mm)                                             Round             157       PTH        39.61inch (1006.00mm)
+T2      36mil (0.914mm)                                           Round             64        PTH        9.62inch (244.43mm)
+T3      37mil (0.95mm)                                            Round             32        PTH        8.65inch (219.71mm)
+T4      40mil (1.016mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      40mil (1.021mm)                                           Round             240       PTH        35.39inch (899.02mm)
+T6      63mil (1.6mm)                                             Round             16        PTH        8.32inch (211.43mm)
+T7      57mil (1.45mm)                                            Round             6         NPTH       10.90inch (276.92mm)
+T8      130mil (3.299mm)                                          Round             16        NPTH       8.87inch (225.29mm)
+T9      134mil (3.401mm)        +/-3mil (0.076mm)                 Round             4         NPTH       13.78inch (350.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              555
+Totals                                                                              537
 
 Total Processing Time (hh:mm:ss) : 00:00:00
